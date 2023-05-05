@@ -11,34 +11,18 @@ This project aims to develop a machine learning model to detect human activity u
 The project will be developed using the following technologies:
 
 - Python
-- TensorFlow??
-- Keras??
-- Scikit-learn??
-- Jupyter Notebook??
-
-## Installation
-
-To install the required libraries, run the following command:??? need to add this part
-
-
+- TensorFlow
+- Jupyter 
 
 
 ## Dataset
 
-The model will be trained on the WISDOM Dataset, which is a publicly available dataset containing accelerometer data for various activities.
+The model will be trained on the WISDM Dataset, which is a publicly available dataset containing accelerometer data for various activities.
 https://www.cis.fordham.edu/wisdm/dataset.php
 
 ## Usage
 
-we need to elaborate this part
-To train the model, run the following command:
-
-python train_model.py
-
-To test the model, run the following command:
-
-python test_model.py
-
+Two model developed, One is for Machine learning, the other is Deep learning
 
 
 ## Contributors
